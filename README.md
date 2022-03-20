@@ -7,7 +7,7 @@
 ~; fetch.sh
 ```
 
-<img align="left" src="https://github.com/void-linux/void-packages/blob/master/srcpkgs/void-artwork/files/icons/void-logo-notext-256.png?raw=true" width="308" />
+<img align="left" src="https://github.com/sm-idk/sm-idk/blob/main/HV-STICKER.png?raw=true" width="308" />
 
 ```haskell
 smn@node
