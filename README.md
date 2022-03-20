@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>  </i>
+  <i> Sup </i>
 </h1>
 
 
@@ -7,7 +7,7 @@
 ~; fetch.sh
 ```
 
-<img align="left" src="https://github.com/sm-idk/bd.png" width="308" />
+<img align="left" src="https://github.com/sm-idk/sm-idk/bd.png" width="308" />
 
 ```haskell
 smn@node
@@ -21,8 +21,4 @@ learning • html, linux.
 hobbies  • Music, Cyberpunk 
            literature, games
 discord  • Someone, idk#0736
-
-repos    • {{ REPOSITORIES }}
-commits  • {{ COMMITS }}
-issues   • {{ ISSUES }}
 ```
