@@ -7,7 +7,7 @@
 ~; fetch.sh
 ```
 
-<img align="left" src="https://github.com/sm-idk/sm-idk/bd.png" width="308" />
+<img align="left" src="https://github.com/sm-idk/sm-idk/blob/main/bd.png?raw=true" width="308" />
 
 ```haskell
 smn@node
